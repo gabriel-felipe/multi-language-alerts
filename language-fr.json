@@ -1,0 +1,65 @@
+{
+  "fr": {
+    "crud_insert_success":"Donnés enregistres avec succès.",
+    "crud_update_success":"Donnés changés avec succès.",
+    "crud_delete_success":"Registre supprimé avec succès.",
+    "crud_insert_error":"Erreur pendant l’enregistrement des donnés.",
+    "crud_update_error":"Erreur au changer les données.",
+    "crud_delete_error":"Erreur pendant la suppression du registre.",
+    "crud_confirm_delete":"Voulez-Vous supprimer ce registre?",
+    "crud_fill_error":"Rempliez-Vous tous les champs correctement, s’il vous plait.",
+    "crud_record_not_found":"Registre pas trouvé.",
+
+    "db_connect_success":"La Connection avec la base de données a été établie avec succès.",
+    "db_connect_error":"Erreur au établir la connexion avec la base de données.",
+    
+    "auth_success":"L'utilisateur s’a authentifié avec succès.",
+    "auth_error":"L’utilisateur n’est pas enregistré ou le mot de passe est incorrect.",
+    "auth_username_error":"L’utilisateur n’est pas enregistré.",
+    "auth_passoword_error":"Mot de passe incorrect.",
+
+    "loading":"Attendez-vous, c’est en cours de chargement...",
+    "no_results":"Aucun résultat a été retourné.",
+    "page_not_found":"Page non trouvé.",
+
+    "invalid_firstname":"Prénom invalide.",
+    "invalid_lastname":"Nom invalide.",
+    "invalid_username":"Nom d’utilisateur invalide.",
+    "invalid_date_of_birth":"Date de naissance invalide.",
+    "invalid_gender":"Genre invalide.",
+    "invalid_age":"Âge invalide.",
+    "invalid_email":"Courrier électronique invalide.",
+    "invalid_phone":"Téléphone invalide.",
+    "invalid_mobile_phone":"Téléphone portable invalide.",
+    "invalid_address":"Adresse invalide.",
+    "invalid_country":"Pays invalide.",
+    "invalid_state":"Région invalide.",
+    "invalid_province":"Département invalide.",
+    "invalid_city":"Ville invalide.",
+    "invalid_district":"Commune invalide.",
+    "invalid_block":"Arrondissement invalide.",
+    "invalid_street":"Rue invalide.",
+    "invalid_number":"Numéro invalide.",
+    "invalid_zipcode":"Code postal invalide.",
+    "invalid_image_file":"Fichier d’image non valide.",
+    "invalid_image_size":"La taille de l’image est pas pris en charge.",
+    "invalid_image_dimension":"La mesure de l'image est pas prise en charge.",
+    "invalid_file_format":"Le format du fichier est invalide.",
+    "invalid_file_size":"La taille du fichier est pas pris en charge.",
+    
+    "username_in_use":"Ce nom d'utilisateur est déjà en utilisation.",
+    "email_in_use":"Cette adresse e-mail est déjà en utilisation.",
+    "mobile_phone_in_use":"Ce numéro de téléphone mobile est déjà en utilisation.",  
+    
+    "select_country":"Sélectionnez un pays.",
+    "select_city":"Sélectionnez une ville.",
+    "select_state":"Sélectionnez un état.",
+    "select_gender":"Sélectionnez le genre.",
+    
+    "password_is_too_small":"Le mot de passe est trop petit.",
+    "password_is_too_long":"Le mot de passe est trop long.",
+    "password_is_too_weak":"Le mot de passe est trop faible.",
+    "password_do_not_match":"Le mot de passe est différent de ce que nous a fourni.",
+    "passwords_do_not_match":"Les mots de passe ne correspondent pas."
+  }
+}

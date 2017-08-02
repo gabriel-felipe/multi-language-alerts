@@ -6,15 +6,15 @@
     "crud_insert_error":"Error al registrar datos.",
     "crud_update_error":"Error al cambiar los datos.",
     "crud_delete_error":"Error al eliminar registro.",
-    "crud_confirm_delete":"¿Desea eliminar ese registro?",
-    "crud_fill_error":"Llene todos los espacios correctamente.",
+    "crud_confirm_delete":"¿Desea eliminar este registro?",
+    "crud_fill_error":"Rellene todos los campos correctamente.",
     "crud_record_not_found":"Registro no encontrado.",
 
     "db_connect_success":"Conexión con la base de datos establecida con éxito.",
-    "db_connect_error":"Error al establecer conexión con la base de datos.",
+    "db_connect_error":"Error al establecer la conexión con la base de datos.",
     
     "auth_success":"Usuario autenticado con éxito.",
-    "auth_error":"Usuario no registrado o contraseña invalida.",
+    "auth_error":"Usuario no registrado o la contraseña es invalida.",
     "auth_username_error":"Usuario no registrado.",
     "auth_passoword_error":"Contraseña invalida.",
 
@@ -54,7 +54,7 @@
     "select_country":"Seleccione un país.",
     "select_city":"Seleccione una ciudad.",
     "select_state":"Seleccione un estado.",
-    "select_gender":"Selecciones el sexo.",
+    "select_gender":"Seleccione el sexo.",
     
     "password_is_too_small":"La contraseña es muy corta.",
     "password_is_too_long":"La contraseña es muy larga.",
