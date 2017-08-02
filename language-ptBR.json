@@ -1,5 +1,5 @@
 {
-  "pt": {
+  "ptBR": {
     "crud_insert_success":"Dados cadastrados com sucesso.",
     "crud_update_success":"Dados alterados com sucesso.",
     "crud_delete_success":"Registro removido com sucesso.",
