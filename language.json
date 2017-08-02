@@ -16,7 +16,7 @@
     "auth_success":"Usuário autenticado com sucesso.",
     "auth_error":"Usuário não cadastrado ou senha inválida.",
     "auth_username_error":"Usuário não cadastrado.",
-    "auth_passoword_error":"Senha inválida.",
+    "auth_password_error":"Senha inválida.",
 
     "loading":"Aguarde, carregando...",
     "no_results":"Nenhum resultado foi retornado.",
