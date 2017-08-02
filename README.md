@@ -25,13 +25,16 @@ EN: Alert messages in different languages for systems.
 
 ## Contributors:
 
-| Name:                | Language: | GitHub:             |
-|----------------------|-----------|---------------------|
-| Allex Rodrigues      | en        | @FusRoDah061        |
-| Bruno Gonçalves      | en        | @brunogbr           |
-| Felipe Barelli       | pt, en    | @felipecbarelli     |
-| Jouni Järvinen       | fi, en    | @rautamiekka        |
-| Luiz Noyola          | es        |                     |
-| Marcos Zattar        | de        |                     |
-| Pablo Rocha          | es        |                     |
-| Cesar Urdaneta       | es        | @upcesar            |
+| Name:                | Language: | GitHub:                                              |
+|----------------------|-----------|------------------------------------------------------|
+| Allex Rodrigues      | en        | [@fusrodah061](https://github.com/fusrodah061)       |
+| Bruno Gonçalves      | en        | [@brunogbr](https://github.com/brunogbr)             |
+| Cesar Urdaneta       | es        | [@upcesar](https://github.com/upcesar)               | 
+| Davide Mendes        | ptPT, fr  | [@gorgulius](https://github.com/gorgulius)           |
+| Felipe Barelli       | ptBR, en  | [@felipecbarelli](https://github.com/felipecbarelli) |
+| Gustavo Grimaldi     | it        | [@grimag](https://github.com/grimag)                 |
+| Jouni Järvinen       | fi, en    | [@rautamiekka](https://github.com/rautamiekka)       |
+| Luiz Noyola          | es        |                                                      |
+| Marcos Zattar        | de        |                                                      |
+| Pablo Rocha          | es        |                                                      |
+| Pablo Rocha          | es        |                                                      |
