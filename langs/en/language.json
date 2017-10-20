@@ -1,5 +1,4 @@
 {
-  "en": {
     "crud_insert_success":"Successfully registered record.",
     "crud_update_success":"Successfully updated record.",
     "crud_delete_success":"Successfully deleted record.",
@@ -12,7 +11,7 @@
 
     "db_connect_success":"Successfully connected to database.",
     "db_connect_error":"Failed connecting to database.",
-    
+
     "auth_success":"User successfully authenticated.",
     "auth_error":"User not registered or invalid password.",
     "auth_username_error":"User not registered.",
@@ -46,20 +45,19 @@
     "invalid_image_dimension":"Invalid image dimension.",
     "invalid_file_format":"Invalid file extension.",
     "invalid_file_size":"The import file is too large to upload.",
-    
+
     "username_in_use":"Username is already in use.",
     "email_in_use":"E-mail address is already in use.",
-    "mobile_phone_in_use":"Mobile phone number is already in use.",  
-    
+    "mobile_phone_in_use":"Mobile phone number is already in use.",
+
     "select_country":"Select a country.",
     "select_city":"Select a city.",
     "select_state":"Select a state.",
     "select_gender":"Select a gender.",
-    
+
     "password_is_too_small":"Password too short.",
     "password_is_too_long":"Password too long.",
     "password_is_too_weak":"Password too weak.",
     "password_do_not_match":"Informed password does not match with current one.",
     "passwords_do_not_match":"Informed passwords do not match."
-  }
 }

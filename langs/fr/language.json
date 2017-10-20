@@ -1,5 +1,4 @@
 {
-  "fr": {
     "crud_insert_success":"Donnés enregistres avec succès.",
     "crud_update_success":"Donnés changés avec succès.",
     "crud_delete_success":"Registre supprimé avec succès.",
@@ -12,7 +11,7 @@
 
     "db_connect_success":"La Connection avec la base de données a été établie avec succès.",
     "db_connect_error":"Erreur au établir la connexion avec la base de données.",
-    
+
     "auth_success":"L'utilisateur s’a authentifié avec succès.",
     "auth_error":"L’utilisateur n’est pas enregistré ou le mot de passe est incorrect.",
     "auth_username_error":"L’utilisateur n’est pas enregistré.",
@@ -46,20 +45,20 @@
     "invalid_image_dimension":"La mesure de l'image est pas prise en charge.",
     "invalid_file_format":"Le format du fichier est invalide.",
     "invalid_file_size":"La taille du fichier est pas pris en charge.",
-    
+
     "username_in_use":"Ce nom d'utilisateur est déjà en utilisation.",
     "email_in_use":"Cette adresse e-mail est déjà en utilisation.",
-    "mobile_phone_in_use":"Ce numéro de téléphone mobile est déjà en utilisation.",  
-    
+    "mobile_phone_in_use":"Ce numéro de téléphone mobile est déjà en utilisation.",
+
     "select_country":"Sélectionnez un pays.",
     "select_city":"Sélectionnez une ville.",
     "select_state":"Sélectionnez un état.",
     "select_gender":"Sélectionnez le genre.",
-    
+
     "password_is_too_small":"Le mot de passe est trop petit.",
     "password_is_too_long":"Le mot de passe est trop long.",
     "password_is_too_weak":"Le mot de passe est trop faible.",
     "password_do_not_match":"Le mot de passe est différent de ce que nous a fourni.",
     "passwords_do_not_match":"Les mots de passe ne correspondent pas."
-  }
+
 }

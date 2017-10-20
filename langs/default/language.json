@@ -1,5 +1,4 @@
 {
-  "language": {
     "crud_insert_success":"",
     "crud_update_success":"",
     "crud_delete_success":"",
@@ -16,7 +15,7 @@
     "auth_success":"",
     "auth_error":"",
     "auth_username_error":"",
-    "auth_passoword_error":"",
+    "auth_password_error":"",
 
     "loading":"",
     "no_results":"",
@@ -49,7 +48,7 @@
 
     "username_in_use":"",
     "email_in_use":"",
-    "mobile_phone_in_use":"",  
+    "mobile_phone_in_use":"",
 
     "select_country":"",
     "select_city":"",
@@ -61,5 +60,4 @@
     "password_is_too_weak":"",
     "password_do_not_match":"",
     "passwords_do_not_match":""
-  }
 }

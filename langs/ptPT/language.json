@@ -1,5 +1,4 @@
 {
-  "ptPT": {
     "crud_insert_success":"Dados guardados com sucesso.",
     "crud_update_success":"Dados alterados com sucesso.",
     "crud_delete_success":"Registro removido com sucesso.",
@@ -12,7 +11,7 @@
 
     "db_connect_success":"Conexão à base de dados estabelecida com sucesso.",
     "db_connect_error":"Erro ao estabelecer a conexão com a base de dados.",
-    
+
     "auth_success":"Utilisador autenticado com sucesso.",
     "auth_error":"Utilisador não registrado ou palavra-passe inválida.",
     "auth_username_error":"Utilisador não registrado.",
@@ -46,20 +45,19 @@
     "invalid_image_dimension":"A medida da imagem não é suportada.",
     "invalid_file_format":"O formato do ficheiro é inválido.",
     "invalid_file_size":"O tamanho do ficheiro não é suportado.",
-    
+
     "username_in_use":"Este nome de utilisador já se encontra em uso.",
     "email_in_use":"Este endereço de e-mail já se encontra em uso.",
-    "mobile_phone_in_use":"Este número de telemóvel já se encontra em uso.",  
-    
+    "mobile_phone_in_use":"Este número de telemóvel já se encontra em uso.",
+
     "select_country":"Selecione um país.",
     "select_city":"Selecione uma cidade.",
     "select_state":"Selecione um estado.",
     "select_gender":"Selecione o sexo.",
-    
+
     "password_is_too_small":"A palavra-passe é muito pequena.",
     "password_is_too_long":"A palavra-passe é muito longa.",
     "password_is_too_weak":"A palavra-passe é muito fraca.",
     "password_do_not_match":"A palavra-passe inserida não coincide com a palavra-passe atual.",
     "passwords_do_not_match":"As palavras-passe inseridas não coincidem."
-  }
 }

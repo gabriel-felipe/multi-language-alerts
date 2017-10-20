@@ -1,5 +1,4 @@
 {
-  "language": {
     "crud_insert_success":"Dati inseriti correttamente.",
     "crud_update_success":"Dati modificati correttamente. ",
     "crud_delete_success":"Dati rimossi corretamente.",
@@ -49,7 +48,7 @@
 
     "username_in_use":"Nome utente già esistente.",
     "email_in_use":"Indirizzo email già registrato.",
-    "mobile_phone_in_use":"Numero di cellulare già registrato.",  
+    "mobile_phone_in_use":"Numero di cellulare già registrato.",
 
     "select_country":"Seleziona paese.",
     "select_city":"Seleziona comune.",
@@ -61,5 +60,5 @@
     "password_is_too_weak":"Password troppo debole.",
     "password_do_not_match":"La password inserita non combacia con la password attuale.",
     "passwords_do_not_match":"Le password non combaciano."
-  }
+
 }

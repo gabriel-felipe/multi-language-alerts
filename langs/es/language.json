@@ -1,5 +1,4 @@
 {
-  "es": {
     "crud_insert_success":"Registro agregado con éxito.",
     "crud_update_success":"Registro actualizado con éxito.",
     "crud_delete_success":"Registro eliminado con éxito.",
@@ -12,7 +11,7 @@
 
     "db_connect_success":"Conexión con la base de datos establecida con éxito.",
     "db_connect_error":"Error al establecer la conexión con la base de datos.",
-    
+
     "auth_success":"Usuario autenticado con éxito.",
     "auth_error":"Usuario no registrado o la contraseña es invalida.",
     "auth_username_error":"Usuario no registrado.",
@@ -46,20 +45,19 @@
     "invalid_image_dimension":"La dimensión de la imagen es inválida.",
     "invalid_file_format":"El formato del archivo es inválido.",
     "invalid_file_size":"El tamaño del archivo no es válido.",
-    
+
     "username_in_use":"Ese nombre de usuario ya está en uso.",
     "email_in_use":"Esa dirección de correo electrónico ya está en uso.",
-    "mobile_phone_in_use":"Ese numero de teléfono celular ya está en uso.",  
-    
+    "mobile_phone_in_use":"Ese numero de teléfono celular ya está en uso.",
+
     "select_country":"Seleccione un país.",
     "select_city":"Seleccione una ciudad.",
     "select_state":"Seleccione un estado.",
     "select_gender":"Seleccione el sexo.",
-    
+
     "password_is_too_small":"La contraseña es muy corta.",
     "password_is_too_long":"La contraseña es muy larga.",
     "password_is_too_weak":"La contraseña es muy débil.",
     "password_do_not_match":"La contraseña informada no coincide con la actual.",
     "passwords_do_not_match":"Las contraseñas informadas no coinciden."
-  }
 }

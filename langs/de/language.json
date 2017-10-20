@@ -1,5 +1,4 @@
 {
-  "de": {
     "crud_insert_success":"Die Daten wurden erfolgreich registriert.",
     "crud_update_success":"Die Daten wurden erfolgreich geändert.",
     "crud_delete_success":"Der Datensatz wurde erfolgreich gelöscht.",
@@ -16,7 +15,7 @@
     "auth_success":"Der Benutzer wurde erfolgreich bestätigt.",
     "auth_error":"Benutzer nicht registriert oder falsches Passwort.",
     "auth_username_error":"Benutzer nicht registriert.",
-    "auth_passoword_error":"Falsches Passwort.",
+    "auth_password_error":"Falsches Passwort.",
 
     "loading":"Die Daten werden geladen, bitte warten.",
     "no_results":"Kein Ergebnis.",
@@ -49,7 +48,7 @@
 
     "username_in_use":"Dieser Benutzername ist bereits belegt.",
     "email_in_use":"Diese E-Mail-Adresse ist bereits belegt.",
-    "mobile_phone_in_use":"Diese Telefonnummer ist bereits belegt.",  
+    "mobile_phone_in_use":"Diese Telefonnummer ist bereits belegt.",
 
     "select_country":"Bitte wählen Sie ein Land.",
     "select_city":"Bitte wählen Sie eine Stadt.",
@@ -61,5 +60,4 @@
     "password_is_too_weak":"Das Passwort ist zu schwach.",
     "password_do_not_match":"Das eingegebene Passwort stimmt mit dem aktuellen Passwort nicht überein.",
     "passwords_do_not_match":"Die eingegebenen Passwörter stimmen nicht überein."
-  }
 }
